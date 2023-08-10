@@ -5,7 +5,7 @@
 #### 🔬 PublicAddress.com.au
  <div>
   <a href="https://github.com/felipehertzer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipehertzer&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipehertzer&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&rank_icon=github"/>
 </div>
   <div>  	
   <a href = "mailto:felipe@hertzer.net"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
